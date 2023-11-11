@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @50nicy
-- 👀 I’m interested in oculus quest
-- 🌱 I’m currently learning VR
+- 👀 I’m interested in AR
+- 🌱 I’m currently learning AR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
